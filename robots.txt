@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luizcrisantoo.github.io/site-beth-moreno/sitemap.xml
