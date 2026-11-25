@@ -1,0 +1,32 @@
+/* Paleta extraída do logo e do Instagram @bethmorenovascular (rosé terracota + creme + vinho) */
+:root {
+  --brand: #b85c5c;          /* cor do logo */
+  --brand-strong: #9c4547;   /* botões: contraste AA com texto branco */
+  --brand-deep: #6e3033;
+  --wine: #55252a;
+  --wine-deep: #3d1a1d;
+
+  /* rampa de fundos: clara -> escura, uma seção por degrau */
+  --bg-1: #fcf8f5;
+  --bg-2: #f8eee9;
+  --bg-3: #f2e2db;
+  --bg-4: #ead2c9;
+  --bg-5: #6e3033;
+  --bg-6: #55252a;
+  --bg-7: #3d1a1d;
+
+  --text: #3a2426;
+  --text-muted: #6d5254;
+  --text-on-dark: #fbefea;
+  --text-on-dark-muted: #e9cfc8;
+  --line: #e6d3cc;
+
+  --font-title: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --radius: 18px;
+  --radius-lg: 28px;
+  --shadow: 0 10px 30px rgba(85, 37, 42, .10);
+  --container: 1160px;
+  --section-y: clamp(44px, 5vw, 68px);
+}
